@@ -1,0 +1,30 @@
+.gerard-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.gerard-end-to-end {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.gerard-image {
+  width: 200px;
+  object-fit: cover;
+}
+.gerard-fragment1 {
+  display: contents;
+}
+.gerard-text3 {
+  display: inline-block;
+}
+.gerard-fragment2 {
+  display: contents;
+}
+.gerard-text4 {
+  display: inline-block;
+}
